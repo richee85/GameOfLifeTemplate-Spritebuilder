@@ -8,6 +8,11 @@
 		<integer>1</integer>
 	</dict>
 	<key>spriteFrameFiles</key>
-	<array/>
+	<array>
+		<string>ccbResources.plist</string>
+		<string>GameOfLifeAssets/BackgroundImage.plist</string>
+		<string>GameOfLifeAssets/Assets.plist</string>
+		<string>GameOfLifeAssets/Buttons.plist</string>
+	</array>
 </dict>
 </plist>

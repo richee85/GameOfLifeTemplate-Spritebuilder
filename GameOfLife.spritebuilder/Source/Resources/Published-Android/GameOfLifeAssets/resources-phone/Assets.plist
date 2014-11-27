@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>GameOfLifeAssets/Assets/balloon.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{383, 61}, {85, 90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 90}}</string>
+			<key>sourceSize</key>
+			<string>{85, 90}</string>
+		</dict>
+		<key>GameOfLifeAssets/Assets/bubble.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 61}, {35, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 35}}</string>
+			<key>sourceSize</key>
+			<string>{35, 35}</string>
+		</dict>
+		<key>GameOfLifeAssets/Assets/grid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {380, 307}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {380, 307}}</string>
+			<key>sourceSize</key>
+			<string>{380, 307}</string>
+		</dict>
+		<key>GameOfLifeAssets/Assets/microscope.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{383, 1}, {58, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 107}}</string>
+			<key>sourceSize</key>
+			<string>{58, 107}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>Assets.png</string>
+	</dict>
+</dict>
+</plist>
