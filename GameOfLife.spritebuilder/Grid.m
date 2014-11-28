@@ -120,7 +120,7 @@ static const int GRID_COLUMNS = 10;
         for (int j = 0; j < [_gridArray[i] count]; j++) {
             for (int x = (i-1); x <= (i+1); x++) {
                 for (int y = (j-1); y <= (j+1); y++) {
-                    Creature *currentCreature = _gridArray[x][y];
+                    Creature *currentCreature = _gridArray[i][j];
                     if (currentCreature.livingNeighbors == 3) {
                         currentCreature.isAlive = true;
                         numAlive++;
